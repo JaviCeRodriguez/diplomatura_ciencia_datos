@@ -1,5 +1,7 @@
 # [Diplomatura en Ciencia de Datos](https://argentinaprograma.unsam.edu.ar/paginas/plan.html)
 
+Las clases fueron transmitiras por YouTube, link del canal: [@argentinaprogramaunsam](https://www.youtube.com/@argentinaprogramaunsam/streams)
+
 ## 🐍 Introducción: Programación en Python
 
 - El entorno y las variables: Diferentes entornos de programación Python (consola, IDE, notebooks). Sintaxis del lenguaje. Tipos de datos básicos. Funciones y su documentación.
