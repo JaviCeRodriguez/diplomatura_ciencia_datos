@@ -1,6 +1,6 @@
 # [Diplomatura en Ciencia de Datos](https://argentinaprograma.unsam.edu.ar/paginas/plan.html)
 
-Las clases fueron transmitiras por YouTube, link del canal: [@argentinaprogramaunsam](https://www.youtube.com/@argentinaprogramaunsam/streams)
+Las clases fueron transmitidas por YouTube, link del canal: [@argentinaprogramaunsam](https://www.youtube.com/@argentinaprogramaunsam/streams)
 
 ## 🐍 Introducción: Programación en Python
 
